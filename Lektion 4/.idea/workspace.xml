@@ -35,15 +35,15 @@
       <file leaf-file-name="uppgift.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/uppgift.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.41480207">
-              <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+            <state vertical-scroll-proportion="3.716007">
+              <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
               <folding>
-                <marker date="1441823878000" expanded="true" signature="2504:2724" placeholder="..." />
-                <marker date="1441823878000" expanded="true" signature="2504:2727" placeholder="..." />
-                <marker date="1441823878000" expanded="true" signature="3058:3079" placeholder="..." />
-                <marker date="1441823878000" expanded="true" signature="3188:3210" placeholder="..." />
-                <marker date="1441823878000" expanded="true" signature="3399:3420" placeholder="..." />
-                <marker date="1441823878000" expanded="true" signature="3976:3993" placeholder="..." />
+                <marker date="1441830803856" expanded="true" signature="2504:2724" placeholder="..." />
+                <marker date="1441830803856" expanded="true" signature="2504:2727" placeholder="..." />
+                <marker date="1441830803856" expanded="true" signature="3058:3079" placeholder="..." />
+                <marker date="1441830803856" expanded="true" signature="3188:3210" placeholder="..." />
+                <marker date="1441830803856" expanded="true" signature="3399:3420" placeholder="..." />
+                <marker date="1441830803856" expanded="true" signature="3976:3993" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -56,9 +56,9 @@
       <list>
         <option value="$PROJECT_DIR$/uppgift1.php" />
         <option value="$PROJECT_DIR$/johns.php" />
-        <option value="$PROJECT_DIR$/uppgift.php" />
         <option value="$PROJECT_DIR$/send.php" />
         <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/uppgift.php" />
       </list>
     </option>
   </component>
@@ -124,7 +124,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="WebServerToolWindowFactoryState" value="true" />
   </component>
   <component name="RunManager">
@@ -161,7 +161,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -211,14 +211,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Lektion 3/uppgift5.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.153846">
-          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/send.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.17555939">
@@ -235,17 +227,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../Lektion 3/uppgift5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.153846">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/uppgift.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.41480207">
-          <caret line="120" column="16" selection-start-line="120" selection-start-column="16" selection-end-line="120" selection-end-column="16" />
+        <state vertical-scroll-proportion="3.716007">
+          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
           <folding>
-            <marker date="1441823878000" expanded="true" signature="2504:2724" placeholder="..." />
-            <marker date="1441823878000" expanded="true" signature="2504:2727" placeholder="..." />
-            <marker date="1441823878000" expanded="true" signature="3058:3079" placeholder="..." />
-            <marker date="1441823878000" expanded="true" signature="3188:3210" placeholder="..." />
-            <marker date="1441823878000" expanded="true" signature="3399:3420" placeholder="..." />
-            <marker date="1441823878000" expanded="true" signature="3976:3993" placeholder="..." />
+            <marker date="1441830803856" expanded="true" signature="2504:2724" placeholder="..." />
+            <marker date="1441830803856" expanded="true" signature="2504:2727" placeholder="..." />
+            <marker date="1441830803856" expanded="true" signature="3058:3079" placeholder="..." />
+            <marker date="1441830803856" expanded="true" signature="3188:3210" placeholder="..." />
+            <marker date="1441830803856" expanded="true" signature="3399:3420" placeholder="..." />
+            <marker date="1441830803856" expanded="true" signature="3976:3993" placeholder="..." />
           </folding>
         </state>
       </provider>
